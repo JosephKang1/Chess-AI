@@ -1,6 +1,6 @@
 # Chess AI Project
 
-In this project, I developed and tested my own AI algorithm for playing chess. It incorporates techniques such as alpha-beta pruning, iterative deepening, heuristic functions, and more. The AI algorithm was created to compete against other students in a school-wide competition.
+In this project, I developed and tested my own AI algorithm for playing chess. It incorporates techniques such as alpha-beta pruning, iterative deepening, heuristic functions, and more. The AI algorithm was created to compete against other students in a school-wide competition. The main language used is C++
 
 ## Features
 
@@ -19,7 +19,7 @@ No installation is required for this project as it runs on the University's serv
 
 ## Usage
 
-To use the AI algorithm, connect to the University's servers and run the Cadre client.
+Currnet usage is unavailable, but code is available for viewing.
 
 ## Contributions
 
