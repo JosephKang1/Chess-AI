@@ -19,7 +19,7 @@ No installation is required for this project as it runs on the University's serv
 
 ## Usage
 
-Currnet usage is unavailable, but code is available for viewing.
+Current usage is unavailable, but code is available for viewing.
 
 ## Contributions
 
