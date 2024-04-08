@@ -25,6 +25,3 @@ Current usage is unavailable, but code is available for viewing.
 
 Contributions to the project are welcome. Feel free to fork the repository and submit pull requests.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
